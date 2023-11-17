@@ -1,4 +1,4 @@
 # EduCentral
 
-# login username: Bidisa
+# login userid: Bidisa
 # login password: Bidisa#
